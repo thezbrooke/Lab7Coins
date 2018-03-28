@@ -1,2 +1,2 @@
-# Lab7Coins
-For Lab 7 - Coin Collection
+#JSPlatformer
+Lab 7 for DIG3480
